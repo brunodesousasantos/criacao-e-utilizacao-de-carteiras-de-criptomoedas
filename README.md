@@ -10,7 +10,7 @@
 
 
 ### Carteiras Geradas nesse projeto
-Foram criadas duas carteiras para realizar as transações entre elas por meio do software electrum. As transações podem ser verificadas no buscador citado anteriormente.
+Foram criadas duas carteiras com os endereços abaixo para realizar as transações entre elas por meio do software electrum. As transações podem ser verificadas no buscador citado anteriormente.
 
 - n4ixabLGbWfzduFmP5ao73kh2XT55kEpvP
 - mkY53UiBMSpugUje973i3VGQMeUCqmJnAQ
